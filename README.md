@@ -37,4 +37,3 @@
 - **Enter Moves**:
   - Format: `start_x start_y end_x end_y`
   - Example: To move a piece from (1, 1) to (2, 2), enter: `1 1 2 2`
-```
